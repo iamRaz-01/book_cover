@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-# Date:
+# Date: 17 / 10 / 2024
 # AIM:
 To design a book front cover page using HTML and CSS.
 
@@ -185,7 +185,7 @@ urlpatterns = [
 </html>
 ```
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/c731168d-c78c-4ee1-92d0-b3d4b674cfcf)
+![image](https://github.com/user-attachments/assets/d294dee8-242f-4d64-be40-5cf6d97d31af)
 
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
